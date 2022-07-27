@@ -1,0 +1,15 @@
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.tlog
+*.l
+*.recipe
+*.ilk
+*.log
+*.obj
+*.idb
+*.pdb
+*.exe
+/.vs
+/Day of the programmer/.vs
